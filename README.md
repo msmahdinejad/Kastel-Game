@@ -12,6 +12,8 @@ I focused on implementing a **console-based UI/UX** with a smooth gameplay exper
 
 ![Gameplay GIF](readme-media/GamePlay.gif)
 
+---
+
 ### Features:
 - **Player support**: 2 to 6 players.
 - **OOP implementation**: The game is structured using object-oriented programming principles.
@@ -19,7 +21,11 @@ I focused on implementing a **console-based UI/UX** with a smooth gameplay exper
 - **Console-based UI**: Play the game using arrow keys and spacebar for a simple and intuitive experience.
 - **Sound playback**: The game includes sound effects to enhance the gameplay experience.
 
+---
+
 ### Game Preview:
 - [Download the preview](readme-media/Preview.mp4)
+
+---
 
 Building this project was a fantastic experience for me, as it helped me dive deeper into OOP concepts, discover new programming techniques, and unleash my creativity.
